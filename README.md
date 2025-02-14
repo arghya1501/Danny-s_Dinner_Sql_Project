@@ -103,4 +103,4 @@ This project demonstrates how SQL can be used to extract valuable insights from 
 
 ---
 
-🔗 **GitHub Repository**: [Danny's Diner SQL Project](https://github.com/arghya1501/Danny-s_Dinner_Sql_Project)
+🔗 **GitHub Repository**: [Danny's Dinner SQL Project](https://github.com/arghya1501/Danny-s_Dinner_Sql_Project)
